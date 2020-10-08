@@ -1,3 +1,7 @@
 Ejercicio text Carlota
 
+
 Canvi a master
+
+Canvi en .txt
+
